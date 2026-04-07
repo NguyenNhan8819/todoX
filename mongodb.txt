@@ -1,0 +1,4 @@
+username: phucnhan241088_db_user
+password: HFQqnfbG8y3bNVee
+
+mongodb+srv://<db_username>:<db_password>@cluster0.ylyqtn7.mongodb.net/?appName=Cluster0
